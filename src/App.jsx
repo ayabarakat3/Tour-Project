@@ -1,15 +1,13 @@
-import { useState } from 'react'
-import Gallery from `./Gallery`
-import './App.css'
+import { useState } from 'react';
+import Gallery from './Gallery';
 
 function App() {
-    return (
-      <div className="App">
-        <h1>Tour Comparison App</h1>
-        <h2>It's tour time!</h2>
-        <Gallery />
-      </div>
-    );
-  }
-   
-  export default App;
+  return (
+    <div>
+      <h1>Tour Gallery</h1>
+      <Gallery />
+    </div>
+  );
+}
+
+export default App;
