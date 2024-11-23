@@ -1,5 +1,8 @@
 # React + Vite
 
+In this challenge, I will develop a Tour Comparison App that fetches tour data from an API and displays it in an interactive and dynamic interface. This app will allow users to view tours, remove those they are not interested in, and toggle detailed information for each tour. This project is an excellent way to showcase my skills in API interaction, state management, and React component design.
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
